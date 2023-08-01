@@ -1,1 +1,1 @@
-This is the my second git assignment
+This is the first time I am editing from git hub
